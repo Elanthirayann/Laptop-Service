@@ -27,7 +27,7 @@ const Contact = () => {
         <div>
           <i className="fa fa-envelope"></i>
           <p>
-            <a href="mailto:support@company.com">fixifyhub.services@gmail.com</a>
+            <a href="mailto:fixifyhub.services@gmail.com">fixifyhub.services@gmail.com</a>
           </p>
         </div>
       </div>
