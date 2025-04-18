@@ -3,7 +3,7 @@ import "./footer.css";
 
 const Contact = () => {
   return (
-    <section className="footer-distributed" id = "contact">
+    <section className="footer-distributed" id="contact">
       <div className="footer-left">
         <h3>
           FIXIFY<span>HUB</span>
@@ -15,7 +15,8 @@ const Contact = () => {
         <div>
           <i className="fa fa-map-marker"></i>
           <p>
-            <span>No A-3 Thirumalai Nagar,</span> 13th Street Sembakkam, Chennai-64
+            <span>No A-3 Thirumalai Nagar,</span> 13th Street Sembakkam,
+            Chennai-64
           </p>
         </div>
 
@@ -27,7 +28,9 @@ const Contact = () => {
         <div>
           <i className="fa fa-envelope"></i>
           <p>
-            <a href="mailto:fixifyhub.services@gmail.com">fixifyhub.services@gmail.com</a>
+            <a href="mailto:fixifyhub.services@gmail.com">
+              fixifyhub.services@gmail.com
+            </a>
           </p>
         </div>
       </div>
@@ -41,13 +44,13 @@ const Contact = () => {
 
         <div className="footer-icons">
           <a href="#">
-            <i className="fa fa-facebook"></i>
+            <i className="fab fa-facebook-f"></i>
           </a>
           <a href="#">
-            <i className="fa fa-twitter"></i>
+            <i className="fab fa-twitter"></i>
           </a>
           <a href="#">
-            <i className="fa fa-linkedin"></i>
+            <i className="fab fa-linkedin-in"></i>
           </a>
         </div>
       </div>
