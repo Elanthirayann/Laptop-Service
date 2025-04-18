@@ -9,14 +9,14 @@ const Services = () => {
       desc: "Expert solutions for hardware & software issues.",
     },
     {
-      icon: "fa-shield",
-      title: "Virus Removal",
-      desc: "We clean and protect your system from malware.",
+      icon: "fa-cogs",
+      title: "Custom Build Setup",
+      desc: "Get tailor-made systems built to your needs, and we also upgrade RAM and SSDs at affordable pricing.",
     },
     {
-      icon: "fa-database",
-      title: "Data Recovery",
-      desc: "Lost files? We help retrieve your valuable data.",
+      icon: "fa-solid fa-headset",
+      title: "Customer Support",
+      desc: "Need assistance? Our customer support is here to help you.",
     },
     {
       icon: "fa-wrench",
@@ -35,7 +35,7 @@ const Services = () => {
           color: "#222",
         }}
       >
-        Our Services
+        OUR SERVICES
       </h2>
       <div
         style={{
